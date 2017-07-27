@@ -8,7 +8,7 @@
     display: none !important;
 }
 
-.kudobuzz_widget_review_content_txt ,kudobuzz_review_content_with_ad_info {
+.kudobuzz_widget_review_content_txt span ,kudobuzz_review_content_with_ad_info span {
     display: none !important;
 }
 
