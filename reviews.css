@@ -1,7 +1,7 @@
 <style>
 
 #kudobuzz_prv_widget_nav {
-    display: none;
+    display: none !important;
 }
 
 </style>
