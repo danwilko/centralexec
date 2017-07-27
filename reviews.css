@@ -14,4 +14,12 @@
     color:#c9cc21 !important;
 }
 
+#kudobuzz_prv_widget_nav {
+    display: none;
+}
+
+.powered_by_kudobuzz {
+    display: none;
+}
+
 </style>
