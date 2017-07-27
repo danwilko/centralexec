@@ -8,4 +8,8 @@
     display: none !important;
 }
 
+.kudobuzz_widget_review_content_txt ,kudobuzz_review_content_with_ad_info {
+    display: none !important;
+}
+
 </style>
