@@ -1,25 +1,14 @@
 <style>
 
-#kudobuzz_product_review_form_widget .kudobuzz_pull_left {
-    float:none;
-}
-
-#kudobuzz_product_review_form_widget li {
-    font-size: 22px;
-    line-height: 16px;
-    font-weight:500 !important;
-}
-
-#kudobuzz_product_review_form_widget .kbz_rating_l span.kudobuzz_icons {
-    color:#c9cc21 !important;
-}
-
-#kudobuzz_prv_widget_nav {
+button.wp-btn svg {
     display: none;
 }
 
-.powered_by_kudobuzz {
-    display: none;
+div.wp-rightrow.wp-logo {
+    display: none !important;
 }
+
+
+
 
 </style>
