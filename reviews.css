@@ -4,9 +4,11 @@
     display: none !important;
 }
 
+/*
 .kudobuzz_product_review_form_widget_modal_pright {
     display: none !important;
 }
+*/
 
 .kudobuzz_widget_review_content_txt span ,kudobuzz_review_content_with_ad_info span {
     display: none !important;
