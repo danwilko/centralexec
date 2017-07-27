@@ -8,7 +8,14 @@ button.wp-btn svg {
     display: none !important;
 }
 
-
+button.wp-btn {
+    padding: 8px 20px!important;
+    box-shadow: 0 !important;
+    background-color: #d0d0d0 !importnat;
+    font-family: 'Myriad-Pro-Regular', sans-serif !important;
+    font-size: 18px!important;
+    text-transform: none !important;
+}
 
 
 </style>
