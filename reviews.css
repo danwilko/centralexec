@@ -8,7 +8,7 @@ button.wp-btn svg {
     display: none !important;
 }
 
-button.wp-btn {
+.wp-btn button {
     padding: 8px 20px!important;
     box-shadow: 0 !important;
     background-color: #d0d0d0 !importnat;
