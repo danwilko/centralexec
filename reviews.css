@@ -4,7 +4,7 @@ button.wp-btn svg {
     display: none;
 }
 
-div.wp-rightrow.wp-logo {
+.wp-rightrow wp-logo, div.wp-rightrow.wp-logo {
     display: none !important;
 }
 
