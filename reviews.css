@@ -14,3 +14,7 @@ button.wp-btn svg {
     font-size: 18px!important;
     text-transform: none !important;
 }
+
+wp-stars {
+    display: none;
+}
